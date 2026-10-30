@@ -19,17 +19,7 @@ I enjoy building solutions and cloud-native systems, with a focus on reliable in
 
 - Pursuing a **Bachelor of Computer Engineering** at Toronto Metropolitan University (Class of 2027)
 - Previously interned at **AWS** as a Cloud Consultant and at **Ontario Power Generation**
-- Currently building **FireWatch-AI**, an edge-computing vision detection system on Raspberry Pi, and **Ledger-AI**, an agentic finance advisor with real banking integration
-
----
-
-## Currently Building
-
-**FireWatch-AI** -
-an edge-computing vision detection system running on Raspberry Pi, designed to detect fire and smoke in real time with low-latency, on-device inference.
-
-**Ledger-AI** -
-an agentic finance advisor that connects to real banking data to analyze spending, surface insights, and guide financial decisions.
+- Currently building **FireWatch-AI**, an edge-computing vision detection system running on Raspberry Pi, designed to detect fire and smoke in real time with low-latency, on-device inference, and **Ledger-AI**, an agentic finance advisor that connects to real banking data to analyze spending, surface insights, and guide financial decisions.
 
 ---
 
